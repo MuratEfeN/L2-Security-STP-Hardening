@@ -1,4 +1,4 @@
-# 🛡️ Layer 2 Security Hardening & STP Optimization
+# Layer 2 Security Hardening & STP Optimization
 
 ![Network Topology](assets/network_topology.png)
 
@@ -59,4 +59,5 @@ After the security violation, the port remained in `err-disabled` state (Red LED
 ---
 **Author:** Murat Efe Nalbant
 *Networking Enthusiast & Future Network Architect*
+
 [LinkedIn Profile](https://www.linkedin.com/in/murat-efe-nalbant-554495332/)
