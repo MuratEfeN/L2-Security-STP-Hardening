@@ -58,6 +58,7 @@ After the security violation, the port remained in `err-disabled` state (Red LED
 
 ---
 **Author:** Murat Efe Nalbant
-*Networking Enthusiast & Future Network Architect*
+*Networking Enthusiast
 
 [LinkedIn Profile](https://www.linkedin.com/in/murat-efe-nalbant-554495332/)
+
